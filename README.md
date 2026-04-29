@@ -1,4 +1,11 @@
 ## Airbnb Data Analysis and Visualization
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red?style=flat&logo=streamlit)
+![Plotly](https://img.shields.io/badge/Plotly-5.x-3F4F75?style=flat&logo=plotly)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-green?style=flat&logo=pandas)
+![MongoDB](https://img.shields.io/badge/Data-JSON%2FMongoDB-47A248?style=flat&logo=mongodb)
+![Mapbox](https://img.shields.io/badge/Maps-Mapbox%20Scatter-000000?style=flat&logo=mapbox)
+
 An end-to-end data analysis and interactive visualization application built on the **Airbnb Sample Dataset**. The app performs deep data cleaning, nested JSON extraction, geospatial mapping, price analysis, availability analysis, and location analysis — all served through a multi-tab Streamlit dashboard powered by Plotly Express.
 
 ## Table of Contents
